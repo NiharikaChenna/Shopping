@@ -33,8 +33,8 @@ section{
 
 }
 .btn:hover{
-    background: black;
-    color: white;
+    background: white;
+    color: black;
 }
 .heading {
     text-align: center;
